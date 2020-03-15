@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAndNlog", "WebApiAndNlog\WebApiAndNlog.csproj", "{FA3F7164-C774-4D7E-BF59-574CE2CF1D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3F7164-C774-4D7E-BF59-574CE2CF1D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3F7164-C774-4D7E-BF59-574CE2CF1D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3F7164-C774-4D7E-BF59-574CE2CF1D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3F7164-C774-4D7E-BF59-574CE2CF1D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E6950FA-EE8C-4016-BBE9-1E38A236BA95}
+	EndGlobalSection
+EndGlobal
