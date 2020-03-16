@@ -37,7 +37,7 @@ file. We can also control how much is logged to each log source.
 Logging frameworks also greatly expand our logging sources.
 
 ##### Installing NLog
-Since NLog is a [nuget package installation](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio) is a snap:
+Since NLog is a [nuget package, installation](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio) is a snap:
 
 ```
 Install-Package NLog.Web.AspNetCore
