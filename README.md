@@ -161,7 +161,7 @@ public static void Main(string[] args)
 
 Then we'll replace this:
 
-``` chsarp
+``` csharp
 public static IHostBuilder CreateHostBuilder(string[] args) =>
     Host.CreateDefaultBuilder(args)
         .ConfigureWebHostDefaults(webBuilder =>
